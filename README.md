@@ -9,3 +9,4 @@ Well I've got this issue with regular expressions and it's that I suck at writin
 So I just decided to write a library that automates the most common usage of regular expressions in Python like extracting and validating emails, phone numbers and all the basic stuffs...
 
 Contribute to the project with codes and/or suggestions for more functionality
+I just added my idea
